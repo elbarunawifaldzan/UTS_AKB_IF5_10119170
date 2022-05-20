@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/drawable-v24/shape_putih.xml" value="0.356" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/drawable/ic_music.xml" value="0.1835" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/drawable/shape_hitam.xml" value="0.3555" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/drawable/shape_hitam_kotak.xml" value="0.356" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/drawable/shape_oren.xml" value="0.3555" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/drawable/waktu_svg.xml" value="0.356" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_daily.xml" value="0.25" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_friends.xml" value="0.1" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_gallery.xml" value="0.25" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_map.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_music.xml" value="0.25" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_profile.xml" value="0.22" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_video.xml" value="0.22" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_walkthrough_dua.xml" value="0.33" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_walkthrough_satu.xml" value="0.33" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/activity_walkthrough_tiga.xml" value="0.33" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/custom_dialog.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/googlr_maps_api.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/grid_item_view.xml" value="0.33" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/item_images.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/item_kegiatan.xml" value="0.3603082851637765" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/item_music.xml" value="0.25" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/item_poto.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/item_rv.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/layout/item_teman.xml" value="0.25" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/menu/botton_navigation_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/elbar/AndroidStudioProjects/UTSIF510119170ElbarunaWifaldzan/app/src/main/res/menu/menu_nav.xml" value="0.36666666666666664" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.benhul.uts_if5_10119170_elbarunawifaldzan">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+
+
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme.noActionBar">
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Walkthrough_Satu_Activity"/>
+        <activity android:name=".Walkthrough_Dua_Activity"/>
+        <activity android:name=".Walkthrough_Tiga_Activity"/>
+        <activity android:name=".HomeActivity"/>
+        <activity android:name=".DailyActivity"/>
+        <activity android:name=".GalleryActivity"/>
+        <activity android:name=".VideoActivity"/>
+        <activity android:name=".ProfileActivity"/>
+        <activity android:name=".MusicActivity"/>
+        <activity android:name=".MapActivity"/>
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyAQj3fPqiEfOn5Die5Fia8lXHW8UnugUA4" />
+    </application>
+
+
+</manifest>
